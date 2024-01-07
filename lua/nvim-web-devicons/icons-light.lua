@@ -161,6 +161,12 @@ local icons_by_filename = {
     cterm_color = "96",
     name = "Avif",
   },
+  ["astro"] = {
+    icon = "",
+    color = "#aa321f",
+    cterm_color = "124",
+    name = "Astro",
+  },
   ["brewfile"] = {
     icon = "",
     color = "#701516",

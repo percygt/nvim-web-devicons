@@ -155,6 +155,12 @@ local icons_by_filename = {
     cterm_color = "25",
     name = "R",
   },
+  ["astro"] = {
+    icon = "",
+    color = "#e24329",
+    cterm_color = "196",
+    name = "Astro",
+  },
   ["avif"] = {
     icon = "",
     color = "#a074c4",

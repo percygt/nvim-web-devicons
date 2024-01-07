@@ -32,6 +32,7 @@ end
 
 -- Map of filetypes -> icon names
 local filetypes = {
+  ["astro"] = "astro",
   ["avif"] = "avif",
   ["bzl"] = "bzl",
   ["brewfile"] = "brewfile",
